@@ -54,7 +54,7 @@ body{
 }
 
 .hero{
-    background-image: url(../img/hero-bg.jfif);
+    background-image: url(../img/hero-bg.png);
     height: 89%;
     background-size: cover;
     background-position: center center;
